@@ -1,6 +1,8 @@
 #
 # This file contains configuration flags to customize your site
 #
+# So the custom theme is not working, I am testing to see if the theme will show up if I put the following line below:
+theme: jekyll-theme-leap-day
 
 # Name of your site (displayed in the header)
 name: Making Stuff
